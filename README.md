@@ -1,5 +1,8 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>Nice to see you.</h1>
-![hong kong](https://github.com/RunzeXU/RunzeXU/blob/main/asset/IMG_7687.JPG)
+<div align="center">
+<img src="https://raw.githubusercontent.com/RunzeXU/RunzeXU/main/asset/IMG_7687.JPG" height="70%" width="70%" alt="Hong Kong" align=center/>
+</div>
+
 <p>Welcome to my page! </br> I'm Runze, Research Assistant from <img src="https://cdn-icons-png.flaticon.com/512/4696/4696498.png" width="13"/> <b>Hong Kong, China.</b> </p>
 <p align="center">
     <a href="https://github.com/RunzeXU/" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-@RunzeXU-181717?style=flat-square&logo=GitHub&logoColor=white"></a>
